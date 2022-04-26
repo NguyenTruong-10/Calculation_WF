@@ -1,0 +1,9 @@
+C:\Users\sv\Desktop\Control\Control\bin\Debug\Control.exe.config
+C:\Users\sv\Desktop\Control\Control\bin\Debug\Control.exe
+C:\Users\sv\Desktop\Control\Control\bin\Debug\Control.pdb
+C:\Users\sv\Desktop\Control\Control\obj\Debug\Control.Form1.resources
+C:\Users\sv\Desktop\Control\Control\obj\Debug\Control.Properties.Resources.resources
+C:\Users\sv\Desktop\Control\Control\obj\Debug\Control.csproj.GenerateResource.Cache
+C:\Users\sv\Desktop\Control\Control\obj\Debug\Control.exe
+C:\Users\sv\Desktop\Control\Control\obj\Debug\Control.pdb
+C:\Users\sv\Desktop\Control\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
